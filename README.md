@@ -9,3 +9,16 @@ Esta es una aplicación de gestión de tareas desarrollada en Python. Permite ag
 ### Clona este repositorio:
 ```bash
 git clone https://github.com/Yorshgamer/GestorTareas.git
+```
+### Estructura del proyecto
+```
+gestor_tareas/
+├── tests/
+│	└── test_gestor_tareas.py
+├── src/
+│	├── logica
+│	│	└── test_gestor_tareas.py
+│	└── vista
+│	└── gui_gestor_tareas.py
+└── README.md
+```
