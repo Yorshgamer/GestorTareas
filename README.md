@@ -8,4 +8,4 @@ Esta es una aplicación de gestión de tareas desarrollada en Python. Permite ag
 -	Tkinter (incluido en la instalación estándar de Python) ## Instalación
 ### Clona este repositorio:
 ```bash
-git clone <URL_del_repositorio>
+git clone https://github.com/Yorshgamer/GestorTareas.git
